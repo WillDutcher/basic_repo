@@ -1,0 +1,17 @@
+1. Navigate to github and click new repo; basic_repo
+2. Navigate to newly-created Basic Repo directory
+3. git init
+4. git add .
+5. git commit -m "Initial commit"
+6. git remote add origin https://github.com/WillDutcher/basic_repo.git
+7. git push origin master
+8. vi test1.txt; add data; save and quit
+9. vi test2.txt; add data; save and quit
+10. git add .
+11. git commit -m "Commit new data to github."
+12. git push --set-upstream origin master
+13. vi test1.txt; add new line of data; save and quit
+14. git add .
+15. git commit -m "Add new line to test1.txt"
+16. git push
+
